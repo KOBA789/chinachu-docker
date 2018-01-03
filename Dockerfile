@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 ENV DOCKER="YES"
 ARG REPOSITORY="git://github.com/Chinachu/Chinachu.git"
-ARG BRANCH="master"
+ARG BRANCH="BRANCH"
 
 ARG WORK_DIR="/usr/local/chinachu"
 
