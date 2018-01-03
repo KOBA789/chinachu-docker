@@ -21,7 +21,7 @@
   "wuiConfigurator"     : true,
   "wuiMdnsAdvertisement": true,
 
-  "mirakurunPath": "http://container-mirakurun:40772/",
+  "mirakurunPath": "http://mirakurun.default:40772/",
 
   "recordedFormat": "[<date:yymmdd-HHMM>][<type><channel>][<tuner>]<title>.m2ts",
 
